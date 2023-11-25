@@ -25,7 +25,7 @@ import moment from 'moment-timezone'
 
 /*==============USER-INFO==============*/
 global.owner = [
-  ['8801853262586', 'ꜱʟᴀꜱʜᴇʀ ᴏꜰꜰɪᴄɪᴀʟ', true], 
+  ['994403854383', '~_. SHANI_RAJOUT🤥🍭メ★_~', true], 
   ['put your number', 'your-name', true] 
 ] 
 
@@ -177,7 +177,7 @@ global.dmenub2 = '┊' //body for info cmd on Default menu
 global.dmenuf = '┗––––––––––✦' //footer
 
 // COMMAND MENU
-global.dashmenu = '┅━━━═┅═❏ *Dᴀꜱʜʙᴏᴀʀᴅ* ❏═┅═━━━┅'
+global.dashmenu = '┅━━━═┅═❏ *~_. SHANI_RAJOUT🤥🍭メ★_~* ❏═┅═━━━┅'
 global.cmenut = '❏––––––『'                       //top
 global.cmenuh = '』––––––'                        //header
 global.cmenub = '┊🔖'                            //body
@@ -193,10 +193,10 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'x_sla.sher_'
-global.stickauth = `「 x-ɢᴇɴ-ᴍᴅ 」`
-global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ x-ɢᴇɴ-ᴍᴅ'
+global.stickpack = '~_. SHANI_RAJOUT🤥🍭メ★_~'
+global.stickauth = `「✤᮫⤹⏤ₒ᮫ᷤ₃᮫ͪ₄᮫ͣ₅᮫ᷠ₌᮫ͥ₅᮫₁᮫ᷢ₁᮫ͣ₆᮫ᷬ₉᮫ⷬ₉᮫ⷰ₄ⷮ⏤⤸✤」`
+global.packname = '~_. SHANI_RAJOUT🤥🍭メ★_~'
+global.packname2 = '✤᮫⤹⏤ₒ᮫ᷤ₃᮫ͪ₄᮫ͣ₅᮫ᷠ₌᮫ͥ₅᮫₁᮫ᷢ₁᮫ͣ₆᮫ᷬ₉᮫ⷬ₉᮫ⷰ₄ⷮ⏤⤸✤'
 
 global.multiplier = 38 // The higher, The harder levelup
 
